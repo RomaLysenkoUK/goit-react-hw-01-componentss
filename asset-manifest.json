@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/RomaLysenkoUK/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/RomaLysenkoUK/goit-react-hw-01-components/static/js/main.c87c73d1.js",
+    "main.css": "/RomaLysenkoUK/goit-react-hw-01-components/static/css/main.77a66ba0.css",
+    "main.js": "/RomaLysenkoUK/goit-react-hw-01-components/static/js/main.6edf3183.js",
     "index.html": "/RomaLysenkoUK/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/RomaLysenkoUK/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.c87c73d1.js.map": "/RomaLysenkoUK/goit-react-hw-01-components/static/js/main.c87c73d1.js.map"
+    "main.77a66ba0.css.map": "/RomaLysenkoUK/goit-react-hw-01-components/static/css/main.77a66ba0.css.map",
+    "main.6edf3183.js.map": "/RomaLysenkoUK/goit-react-hw-01-components/static/js/main.6edf3183.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.c87c73d1.js"
+    "static/css/main.77a66ba0.css",
+    "static/js/main.6edf3183.js"
   ]
 }
