@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import s from './FriendList.module.css';
 
-export const FriendListItem = ({ avatar, name, isOnline, id }) => {
+export const FriendListItem = ({ avatar, name, isOnline}) => {
   
   return (
     <li className={s.item}>
